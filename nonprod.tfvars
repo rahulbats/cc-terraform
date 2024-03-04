@@ -1,6 +1,6 @@
 #Confluent CLoud Keys used to create the cluster
-confluent_cloud_api_key="4EPG324I2RTHUXDJ"
-confluent_cloud_api_secret = "KEJN7ZaT+leWKKojJPDmzq1DnsLJvRjmIqkJtVz8lyA68G4KarrPmsRL9nVRS6Qw"
+confluent_cloud_api_key="API_KEY"
+confluent_cloud_api_secret = "SECRET"
 
 #CLuster Environment details
 confluent_cloud_env_name="rahul-env"
